@@ -14,7 +14,7 @@
 
 ## ✅ Packages
 
-- [x] Windows 10
+- [x Windows 10
 - [x] WSL / WSL2
 - [x] Windows Terminal
 - [x] Ubuntu
